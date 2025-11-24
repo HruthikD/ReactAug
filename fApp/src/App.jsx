@@ -1,7 +1,7 @@
 
 import Homeclass from './Homeclass';
 export default function App() {
- let fname = "Hruthik";
+ let fname = "Hruthi";
  let age = 21;
   return(
     <div>
